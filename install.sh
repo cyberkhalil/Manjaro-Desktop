@@ -1,6 +1,6 @@
 sudo pacman -Syu --noconfirm
-sudo pacman -S yay virtualbox flameshot korganizer kmail kontact brave vlc simplescreenrecorder --noconfirm
-yay -S kazam ttf-vista-fonts ttf-ms-fonts
+sudo pacman -S yay virtualbox flameshot korganizer kmail kontact brave vlc simplescreenrecorder linux linux-headers --noconfirm
+yay -S ttf-vista-fonts ttf-ms-fonts
 
 # to solve arabic language font problem
 mkdir -p ~/.config/fontconfig/conf.d/
