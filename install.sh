@@ -17,7 +17,7 @@ yay -S linux linux-headers --noconfirm
 yay -S virtualbox virtualbox-host-dkms --noconfirm
 
 # Screenshot & Video recording
-yay -S flameshot obs-studio --noconfirm
+yay -S flameshot obs-studio --noconfirm # elisa kmplayer
 
 # Video & Audio players
 yay -S vlc --noconfirm
