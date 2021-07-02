@@ -41,7 +41,7 @@ yay -S visual-studio-code-bin --noconfirm # atom
 yay -S wireshark-qt aircrack-ng zenmap --noconfirm
 
 # Manage Tasks
-yay -S korganizer gnome-todo --noconfirm
+yay -S korganizer --noconfirm # gnome-todo
 
 # Rss Feeds
 yay -S akregator --noconfirm
