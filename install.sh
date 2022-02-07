@@ -20,7 +20,7 @@ yay -S virtualbox virtualbox-host-dkms --noconfirm
 yay -S flameshot obs-studio --noconfirm # elisa kmplayer
 
 # Video & Audio players
-yay -S vlc --noconfirm
+yay -S vlc elisa --noconfirm
 
 # Video Editor
 yay -S kdenlive --noconfirm
