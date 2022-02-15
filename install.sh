@@ -5,7 +5,7 @@ sudo pacman -Syu --noconfirm
 sudo pacman -S yay --noconfirm
 
 # Remove default package manager
-yay -R pamac-gtk pamac-tray-icon-plasma pamac-snap-plugin pamac-flatpak-plugin web-installer-url-handler manjaro-hello web-installer-url-handler yakuake --noconfirm
+yay -R manjaro-hello yakuake --noconfirm
 
 ## Installation
 # Compilers & utilities
